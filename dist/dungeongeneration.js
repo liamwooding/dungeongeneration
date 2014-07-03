@@ -7505,4 +7505,4 @@ InteractionManager.prototype = {
 //Export the Browserify module
 module.exports = InteractionManager;
 
-},{}]},{},[31])
+},{}]},{},[31]);
